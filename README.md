@@ -15,8 +15,9 @@ Write your design steps here
 include your output screenshots 
 
 
-## Result:
-Thus a wire frame is designed for a given website.
+
 ![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/home.PNG?raw=true)
 ![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/training.PNG?raw=true)
 ![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/about.PNG?raw=true)
+## Result:
+Thus a wire frame is designed for a given website.
