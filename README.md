@@ -17,6 +17,6 @@ include your output screenshots
 
 ## Result:
 Thus a wire frame is designed for a given website.
-![output](./home.png)
-![output](./training.png)
-![output](./about.png)
+![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/home.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/training.PNG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/wireframeproject/blob/main/about.PNG?raw=true)
